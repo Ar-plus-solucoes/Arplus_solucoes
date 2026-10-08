@@ -361,6 +361,8 @@ main {
   aspect-ratio: 16 / 10;
   border-radius: 12px;
   object-fit: cover;
+  border: solid 1.05px rgba(39, 167, 226, 0.25);
+  border-color: #aee6fd;
 }
 
 .marcas {
